@@ -1,0 +1,2 @@
+# ternaryoperator
+Created with CodeSandbox
